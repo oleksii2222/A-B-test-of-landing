@@ -44,10 +44,8 @@
 
 - **Python**
 - **Pandas**
-- **NumPy**
 - **SciPy**
 - **Power BI**
-- **Matplotlib**
 
 ## Висновок
 
